@@ -1,0 +1,13 @@
+[7,5,1,8,3,6,0,9,4,2] dizisinin Binary-Search-Tree Aşamaları
+
+Root 6 aldım. Sağ tarafında büyük sayılar, sol tarafında küçük sayılar olacak şekilde bölünür.
+
+              6
+            /   \
+           4      8
+         /  \    /  \
+        1    5   7   9
+      /   \     /
+     0     2   3
+        
+       
