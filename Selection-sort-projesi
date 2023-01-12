@@ -20,7 +20,7 @@ Dizinin Big-O gösterimi:
   n+(n-1)+....1 işlem yapıyoruz= Big-O Notation : O(n^2)
   
 Time Complexity
-  [2,6,16,18,22,27]: Dizi sıralandıktan sonra 18 sayısı ortada, bu yüzden avarage case kapsamına girer.
+  [2,6,16,18,22,27]: Dizi sıralandıktan sonra 18 sayısı ortada, bu yüzden average case kapsamına girer.
   
   
   
