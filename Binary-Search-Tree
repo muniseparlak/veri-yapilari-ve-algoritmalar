@@ -7,7 +7,9 @@ Root 6 aldım. Sağ tarafında büyük sayılar, sol tarafında küçük sayıla
            4      8
          /  \    /  \
         1    5   7   9
-      /   \     /
-     0     2   3
+      /   \     
+     0     2 
+            \
+             3
         
        
